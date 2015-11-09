@@ -1,0 +1,23 @@
+name: johnryan
+favicon: null
+layout_spectrum: 0.6047724797390401
+typography_spectrum: 0.026606527855619788
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.461584409000352
+  lightness: 0.3424989487975836
+  saturation: 0.8012564035598189
+  rhythmicContrast: 0.17687082709744573
+purpose: []
