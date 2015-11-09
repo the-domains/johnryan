@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[johnryan]]></title>
         <description><![CDATA[johnryan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/johnryan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 03:45:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 Nov 2015 03:48:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/johnryan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My First Post]]></title>
+            <description><![CDATA[<article><h1>My First Post</h1><p>first post</p></article>]]></description>
+            <link>https://thegrid.ai/johnryan/my-first-post/index.html</link>
+            <guid isPermaLink="false">dab97366-f6bb-459a-92e2-8ce05a2fe8f2</guid>
+            <pubDate>Mon, 09 Nov 2015 03:48:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/johnryan/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">2f45b538-09f9-4428-abca-3696948a1d58</guid>
             <pubDate>Mon, 09 Nov 2015 03:45:33 GMT</pubDate>
         </item>
