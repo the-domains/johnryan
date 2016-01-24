@@ -1,23 +1,18 @@
-name: johnryan
-favicon: null
-layout_spectrum: 0.6047724797390401
-typography_spectrum: 0.026606527855619788
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
-  brandColors: []
-  brandStrength: 0.461584409000352
-  lightness: 0.3424989487975836
-  saturation: 0.8012564035598189
-  rhythmicContrast: 0.17687082709744573
+  brandColors:
+    - '#000000'
+    - '#1E5167'
+    - '#50A8A8'
+    - '#40A0C8'
+    - '#50A8D0'
+  brandStrength: 0.461584
+  lightness: 0.675438
+  rhythmicContrast: 0.502192
+  saturation: 0.801256
+cta: {}
+layout_spectrum: 0.887061
+name: johnryan
+opengraph: {}
 purpose: []
+typography_spectrum: 0.323464
